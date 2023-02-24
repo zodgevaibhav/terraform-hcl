@@ -1,0 +1,17 @@
+{
+    "item1":{
+        "primaryKey":{"S":"test/vz/student_1"},
+        "dataKey":{"S":"name"},
+        "data":{"S":"John"}
+    },
+    "item2":{
+        "primaryKey":{"S":"test/vz/student_2"},
+        "dataKey":{"S":"name"},
+        "data":{"S":"Smith"}
+    },
+    "item3":{
+        "primaryKey":{"S":"test/vz/student_3"},
+        "dataKey":{"S":"name"},
+        "data":{"S":"Paula"}
+    }
+}
